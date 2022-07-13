@@ -1,0 +1,154 @@
+.top-container {
+    background-color: #E0D8B0;
+    text-align: center;
+    padding-top: 100px;
+    position: relative;
+    
+}
+
+.middle-container {
+    text-align: center;
+    margin:100px 0;
+}
+
+.sam {
+    border-radius: 100px;
+    width:200px;
+    
+
+}
+
+.profile {
+    text-align: center;
+}
+
+.skills {
+    text-align: center;
+}
+
+.contact-me {
+    text-align: center;
+    
+}
+
+.contact-msg {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+.web-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.teaching-img {
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+
+.bottom-container {
+    background-color: #E0D8B0;
+    margin-top: 100px;
+    padding: 50px;
+}
+
+.firstfish {
+    height: 70px;
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+
+.secondfish {
+    height: 70px;
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.btn {
+    background-color: #E0D8B0;
+    margin-top: 30px;
+    color: white;
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 28px;
+    padding: 16px;
+}
+
+.btn:hover {
+    background-color: #2bc4ad;
+}
+
+.bottom-container {
+    text-align: center;
+}
+
+.footer-link {
+    color:#c8b349;
+    margin: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: white;
+}
+
+.copyright {
+    font-size: 0.5rem;
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #143ea0;
+
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #143ea0;
+    font-weight: normal;
+
+}
+
+h3 {
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    border-style: dotted none none none;
+    width: 5%;
+    color: #eaf6f6;
+    border-width: 8px;
+    margin: 100px auto;
+    
+}
+
+p {
+    line-height: 200%;
+}
+
+a {
+    color: #11999e;
+}
+
+body {
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    color: #40514e;
+}
